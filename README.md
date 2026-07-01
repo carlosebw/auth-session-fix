@@ -157,6 +157,7 @@ npm run dev
 No painel do Supabase:
 - Authentication > URL Configuration > Site URL: `http://localhost:3000`
 - Redirect URLs: `http://localhost:3000/auth/callback`
+- Authentication > Users > "Invite user" ou "Add user": crie um usuário com e-mail e senha para conseguir fazer login e testar a demo
 
 ---
 
